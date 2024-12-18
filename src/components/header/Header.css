@@ -1,0 +1,9 @@
+
+@media (max-width:750px){
+    .header-collection.show{
+        display: flex;
+    }
+    .header-collection.hide{
+        display: none;
+    }
+}
